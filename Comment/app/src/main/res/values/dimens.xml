@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_medium_space">8dp</dimen>
+    <dimen name="app_small_space">4dp</dimen>
+
+    <dimen name="app_small_radius">4dp</dimen>
+
+    <dimen name="default_list_bottom_space">80dp</dimen>
+</resources>
