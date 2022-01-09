@@ -6,8 +6,8 @@
 
 ## Done items
 Features:
-* User can input comments using the text input component. Every comment will show up on a list. 
-* App will extract links and mentions from every comment and add them to that list.
+* Users can input comments using the text input component. Every comment will show up on a list. 
+* The app will extract links and mentions from every comment and add them to that list.
 * Use `CommentInfoExtractor` as a library to extract links and mentions from comments.
 
 ## Architecture & Techniques
@@ -33,7 +33,7 @@ Main packages:
 
 * `uimodel`: the data models that can display on UI without further transformations.
 
-* `factory`: defines some factory classes to instantiate the classes from the following packesges: `domain`, `presentation`, and `data`.
+* `factory`: defines some factory classes to instantiate the classes from the following packages: `domain`, `presentation`, and `data`.
 
 
 
