@@ -8,7 +8,7 @@
 Features:
 * Users can input comments using the text input component. Every comment will show up on a list. 
 * The app will extract links and mentions from every comment and add them to that list.
-* Use `CommentInfoExtractor` as a library to extract links and mentions from comments.
+* Use `CommentInfoExtractor` as a service to extract links and mentions from comments. The inputs are comments, and outputs can be the json strings of the links or mentioned people in those comments.
 
 ## Architecture & Techniques
 * Architecture: Clean Architecture
